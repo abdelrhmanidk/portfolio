@@ -12,5 +12,5 @@ Flutter Web Portfolio, Based on a design on Figma and hosted on Github host.
 ![Screenshot](./assets/previews/contact_preview.png)
 
 
-Special thanks to [Original Developer's Name/Username](https://github.com/radyhaggag) for their innovative portfolio design, which inspired me.
+Special thanks to [Original Developer's radyhaggag](https://github.com/radyhaggag) for their innovative portfolio design, which inspired me.
 
